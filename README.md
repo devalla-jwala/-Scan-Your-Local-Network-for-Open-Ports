@@ -21,3 +21,4 @@ Perform a port scan on my local network to identify open ports and assess securi
 - **Risk**: Open SSH could allow brute-force attacks.
 ## screenshorts
 
+![image alt](https://github.com/devalla-jwala/-Scan-Your-Local-Network-for-Open-Ports/blob/c7850ae1dd6d55ca4d7d80608a53a6d12026f92e/Nmap.jpg)
