@@ -22,3 +22,5 @@ Perform a port scan on my local network to identify open ports and assess securi
 ## screenshorts
 
 ![image alt](https://github.com/devalla-jwala/-Scan-Your-Local-Network-for-Open-Ports/blob/c7850ae1dd6d55ca4d7d80608a53a6d12026f92e/Nmap.jpg)
+
+![image alt](https://github.com/devalla-jwala/-Scan-Your-Local-Network-for-Open-Ports/blob/8f769f2b9cfaf7225c79032f8fbc9610f6a171af/packet%20capture%20with%20Wireshark.jpg)
